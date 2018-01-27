@@ -1,0 +1,84 @@
+body {
+	margin: 0 auto;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+
+.dark-section {
+	background-color: #23232e;
+	color :#ffffff;
+	padding-bottom: 30px;
+}
+
+.logo {
+	margin: 60px auto 120px;
+	width: 90px;
+}
+
+h1 {
+	text-transform: uppercase;
+	font-size: 50px;
+	letter-spacing: 2px;
+	margin-bottom: 30px;
+}
+
+.intro {
+	font-size: 12px;
+	margin: 0 auto 120px;
+	width: 350px;
+	letter-spacing: 1px;
+}
+
+.arrow {
+	border: 1px solid #ffffff;
+	border-radius: 50%;
+	padding: 1px;
+	margin: 0 auto;
+	width: 20px;
+}
+
+.light-section {
+	background-image: url(background-lines.png);
+	padding: 40px 0 70px;
+	color: #23232e;
+	/*width: 1170px;
+	margin: 0 auto;*/
+}
+
+.about {
+	font-family: "Segoe UI", sans-serif;
+	margin: 0 auto 60px;
+	width: 500px;
+}
+
+.skills {
+	margin: 0 auto;
+	width: 800px;
+	font-size: 12px;
+	letter-spacing: 1px;
+	line-height: 1.5;
+}
+
+h3 {
+	text-transform: uppercase;
+}
+
+.skills .skill{
+	display:inline-block;
+	box-sizing: border-box;
+	width: 30%;
+	text-align: left;
+
+}
+
+
+
+
+
+
+
+
+
+
+
